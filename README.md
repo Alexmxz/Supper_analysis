@@ -20,7 +20,7 @@ Copyright all reserved
 
 Distribution between the suppliers.
 
-![dis](Pic/distuibu.png)
+![dis](Pic/distribu.png)
 
 Building Word cloud of issue for different parts received 
 
