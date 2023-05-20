@@ -34,13 +34,4 @@ different between expetation and real received orders
 
 ![diff](Pic/diff.png)
 
-Top 3 models (with default parameters)
 
-| Model  with issue   	                | Issue number 	|
-Tubeless Wheel       86
-Cast Wheel           77
-slab rubber          10
-Braket                6
-Track                 4
-Prelug                3
-Sproket               2
