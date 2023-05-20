@@ -14,6 +14,33 @@
 *  Finally, the excessive concentration of spending on suppliers needs to be thoroughly investigated with more detailed data if any.
 
 ## Authors
-
+Copyright all reserved 
 - [@Alexmu](https://www.github.com/Alexmxz)
 
+
+Distribution between the suppliers.
+
+![dis](Pic/distuibu.png)
+
+Building Word cloud of issue for different parts received 
+
+![wordcloud](Pic/wordcloud.png)
+
+Spending for different suppliers proportion 
+
+![Vendor](Pic/vendor.png)
+
+different between expetation and real received orders
+
+![diff](Pic/diff.png)
+
+Top 3 models (with default parameters)
+
+| Model  with issue   	                | Issue number 	|
+Tubeless Wheel       86
+Cast Wheel           77
+slab rubber          10
+Braket                6
+Track                 4
+Prelug                3
+Sproket               2
